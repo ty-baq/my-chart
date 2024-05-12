@@ -1,0 +1,7 @@
+/* src/styles/BarChart.module.css */
+.chartContainer {
+    width: 600px;      /* Fixed width or use max-width for responsiveness */
+    height: 400px;     /* Fixed height */
+    margin: auto;      /* Center the chart horizontally */
+    padding: 20px;
+}  
